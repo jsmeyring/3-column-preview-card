@@ -147,6 +147,7 @@ footer a{
         main{
         max-width: 375px;
         height: 100vh;
+        margin-top: 1rem;
         display: grid;
         grid-template-areas: 
         "sd" "sv" "lx" "f";
